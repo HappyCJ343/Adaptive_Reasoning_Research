@@ -1,6 +1,6 @@
 # Adaptive_Reasoning_Research
 
-## 🧭 项目总体结构
+## 🧭 后期项目总体结构
 Adaptive Reasoning in Small LMs
 │
 ├── phase_1_baseline/        ← 阶段一：TinyLlama 复现与基线测评
